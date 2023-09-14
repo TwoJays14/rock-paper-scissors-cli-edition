@@ -23,8 +23,7 @@ To play the game, follow these simple steps:
 
 Replace `your-username` with your GitHub username or the repository URL you have.
 
-2. **Install Dependencies:** Navigate to the project folder and install all the required dependencies using npm: `cd rock-paper-scissors`
-   npm install
+2. **Install Dependencies:** Navigate to the project folder and install all the required dependencies using npm: `cd rock-paper-scissors` `npm install`
 
 ## How to Play
 
